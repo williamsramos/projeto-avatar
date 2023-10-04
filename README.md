@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito após curso da  ♥ by Dev em Dobro :wave:
+Feito após curso do  ♥ by Dev em Dobro :wave:
