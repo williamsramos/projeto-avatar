@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto sobre o anime Avatar .
 
 - [Acesse o projeto finalizado, online](https://github.com/williamsramos/projeto-avatar)
-<!-- - [Acesse o site do projeto finalizado, online](https://projeto-one-piece-2zy65bc3i-williamsramos.vercel.app) -->
+- [Acesse o site do projeto finalizado, online](https://projeto-avatar.vercel.app)
 
 
 
