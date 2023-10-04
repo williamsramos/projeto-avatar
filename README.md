@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto One Pierce </h1>
+<h1 align="center"> Projeto Avatar </h1>
 
 <p align="center">
 Projeto desenvolvido na Semana do 0 ao Programador no  canal DEV EM DOBRO <br/>
